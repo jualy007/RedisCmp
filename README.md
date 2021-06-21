@@ -1,2 +1,2 @@
-# RedisCmp
+# rediscmp
 Redis Compare Tool
